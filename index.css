@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+.janu1{
+    display: flex;
+}
+.ll{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+}
+.container h2{
+    color-interpolation-filters: linearRGB;
+}
+.container {
+    height: 80vh;
+    width: 80%;
+    background-color: whitesmoke;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    margin-top: 10vh;
+    
+
+}
+
+.container h2 {
+    margin-top: 2rem;
+}
+.one{
+    display: flex;
+    margin-top: 3rem;
+    margin-right: 1rem;
+
+}
+.one-in
+{
+    border: 2px solid black;
+    background-color: white;
+    height: 2rem;
+    width: 40%;
+    margin-right: 2rem;
+    padding-left: 1rem;
+    text-align: center;
+
+}
+.one-out{
+    border: 2px solid black;
+    background-color: white;
+    height: 2rem;
+    width: 40%;
+    text-align: center;
+
+}
+.two{
+    border: 2px solid black;
+    background-color: white;
+    height: 2rem;
+    width: 60%;
+    margin-top: 2rem;
+    margin-right: 1rem;
+    text-align: center;
+
+}
+.three {
+    display: flex;
+    margin-top: 2rem;
+    margin-right: 1rem;
+    width: 70%;
+}
+.three-in {
+    border: 2px solid black;
+    background-color: white;
+    height: 2rem;
+    width: 30%;
+    margin-right: 2rem;
+    text-align: center;
+}
+.three-out {
+    border: 2px solid black;
+    background-color: white;
+    height: 2rem;
+    width: 30%;
+    text-align: center;
+}
+button {
+    width: 25%;
+    background-color: rgb(72, 72, 178);
+    color:white;
+    text-align: center;
+    margin-right: 10rem;
+    margin-left: 45rem;
+}
+.janu{
+    display:flex;
+width: 100%;
+
+
+}
